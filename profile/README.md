@@ -38,17 +38,17 @@ Alle data er gratis og må frit anvendes under [CC BY 4.0](https://www.geodanmar
 
 | Repository | Indhold |
 |---|---|
-| [Vejledninger](https://github.com/GeoDanmarkGeoFA/Vejledninger) | Vejledninger til API, systembeskrivelse og indlejring af webkort |
-| [Database](https://github.com/GeoDanmarkGeoFA/Database) | Schemaer og metadata for alle temaer – opdateres automatisk |
-| [Release-notes](https://github.com/GeoDanmarkGeoFA/Release-notes) | Hvad er ændret i hver version af GeoFA |
-| [Grafik](https://github.com/GeoDanmarkGeoFA/Grafik) | Gratis ikoner og piktogrammer i PNG og SVG |
+| [Vejledninger](https://github.com/GeoDanmarkGeoFA/Vejledninger) | Vejledninger til API, indlejring af webkort, systembeskrivelse mm. |
+| [Database](https://github.com/GeoDanmarkGeoFA/Database) | Schemaer og metadata for alle temaer – opdateres automatisk - mulighed for at følge alle ændringer i databasen |
+| [Release-notes](https://github.com/GeoDanmarkGeoFA/Release-notes) | Beskrivelse af, hvad der er ændret i hver release af GeoFA |
+| [Grafik](https://github.com/GeoDanmarkGeoFA/Grafik) | Gratis GeoFA-ikoner og -piktogrammer i PNG og SVG, i samarbejde med Udinaturen/Naturstyrelsen |
 | [QGIS_Plugin_GeoFA](https://github.com/GeoDanmarkGeoFA/QGIS_Plugin_GeoFA) | Plugin, der henter GeoFA-lag ind i QGIS |
 | [tilgaengelighed_json_schema](https://github.com/GeoDanmarkGeoFA/tilgaengelighed_json_schema) | JSON-schemaer til tilgængelighedsoplysninger (Natur for Alle) |
 
 ## Kontakt
 
-- **Spørgsmål om GeoFA:** [geofa@geodanmark.dk](mailto:geofa@geodanmark.dk)
+- **GeoFA-support:** [support@geopartner.dk](mailto:support@geopartner.dk)
 - **Fejl og forslag til et repository:** opret et *issue* i det pågældende repository
-- **GeoFA-forum:** [geodanmark.dk/geofa-forum](https://www.geodanmark.dk/om-geodanmark/organisation/geofa-forum/)
+- **GeoFA-forum:** [geofa@geodanmark.dk](mailto:geofa@geodanmark.dk)
 
 <sub>**In English:** GeoFA is Denmark's shared national database for public-sector thematic geodata (recreational routes and facilities, school districts, EV charging and more), operated by GeoDanmark. All data is free to use under CC BY 4.0. Documentation is in Danish.</sub>
