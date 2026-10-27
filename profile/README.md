@@ -5,19 +5,19 @@
   </picture>
 </p>
 
-<h1 align="center">GeoFA – Geografiske fagdata</h1>
+<h1 align="center">GeoFA – Geografiske fagdata i GeoDanmark</h1>
 
 <p align="center">
   <a href="https://confluence.kds.dk/pages/viewpage.action?pageId=191398876">Om GeoFA</a> ·
   <a href="https://confluence.kds.dk/display/GS/GeoFA-specifikation">Specifikation</a> ·
-  <a href="https://geofa-kort.geodanmark.dk/app/fkg/?config=/api/v2/configuration/fkg/configuration_fkg_udgivet_5f465f5d3181f687353260.json#Basis_kort/8/9.8328/55.9892/">Webkort</a> ·
+  <a href="https://geofa-kort.geodanmark.dk/app/fkg/?config=/api/v2/configuration/fkg/configuration_fkg_udgivet_5f465f5d3181f687353260.json#Basis_kort/8/9.8328/55.9892/">GeoFA-webkort</a> ·
   <a href="https://github.com/GeoDanmarkGeoFA/Vejledninger/blob/main/api.md">API</a> ·
   <a href="mailto:geofa@geodanmark.dk">Kontakt</a>
 </p>
 
 ---
 
-**GeoFA** er en fælles national database for offentlige fagdata på tværs af kommunegrænser – fx stier, ruter, shelters og bålpladser, skoledistrikter og offentlige ladestandere. Databasen drives af **GeoDanmark**, og **GeoFA-forum** træffer beslutninger om drift og udvikling.
+**GeoFA** er en fælles national database for offentlige fagdata på tværs af kommunegrænser – fx stier, ruter, shelters og bålpladser, skoledistrikter,  offentlige ladestandere, data om LAR, genopdyrkningsret mm.. Databasen drives af **GeoDanmark**, og **GeoFA-forum** træffer beslutninger om drift og udvikling.
 
 Alle data er gratis og må frit anvendes under [CC BY 4.0](https://www.geodanmark.dk/home/vejledninger/vilkaar-for-data-anvendelse/).
 
@@ -25,12 +25,14 @@ Alle data er gratis og må frit anvendes under [CC BY 4.0](https://www.geodanmar
 
 | Jeg vil … | Start her |
 |---|---|
-| forstå, hvad GeoFA indeholder | [GeoFA-specifikation](https://confluence.kds.dk/display/GS/GeoFA-specifikation) |
+| se korte introvideoer | [Intro-videoer til GeoFA](https://confluence.kds.dk/display/GS/Korte+intro-videoer+til+GeoFA) |
+| læse introduktion | [Intro til GeoFA](https://confluence.kds.dk/pages/viewpage.action?pageId=191398876) |
+| forstå, hvilke data GeoFA indeholder | [GeoFA-specifikation](https://confluence.kds.dk/display/GS/GeoFA-specifikation) |
 | se data på et kort | [GeoFA-webkortet](https://geofa-kort.geodanmark.dk/app/fkg/?config=/api/v2/configuration/fkg/configuration_fkg_udgivet_5f465f5d3181f687353260.json#Basis_kort/8/9.8328/55.9892/) |
 | hente data med API'et | [Vejledning til SQL-API'et](https://github.com/GeoDanmarkGeoFA/Vejledninger/blob/main/api.md) |
 | bruge data i QGIS | [GeoFA-plugin til QGIS](https://github.com/GeoDanmarkGeoFA/QGIS_Plugin_GeoFA) |
 | bruge ikoner og piktogrammer | [Grafik](https://github.com/GeoDanmarkGeoFA/Grafik) |
-| se korte introvideoer | [Intro-videoer til GeoFA](https://confluence.kds.dk/display/GS/Korte+intro-videoer+til+GeoFA) |
+| finde flere vejledninger, f.eks. om wfs, projektsamarbejder mm | [Øvrige vejledninger](https://confluence.kds.dk/pages/viewpage.action?pageId=191398876) |
 
 ## Repositories
 
