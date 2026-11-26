@@ -12,7 +12,7 @@
   <a href="https://confluence.kds.dk/display/GS/GeoFA-specifikation">Specifikation</a> ·
   <a href="https://geofa-kort.geodanmark.dk/app/fkg/?config=/api/v2/configuration/fkg/configuration_fkg_udgivet_5f465f5d3181f687353260.json#Basis_kort/8/9.8328/55.9892/">GeoFA-webkort</a> ·
   <a href="https://github.com/GeoDanmarkGeoFA/Vejledninger/blob/main/api.md">API</a> ·
-  <a href="mailto:geofa@geodanmark.dk">Kontakt</a>
+  
 </p>
 
 ---
